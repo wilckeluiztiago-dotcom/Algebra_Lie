@@ -4,7 +4,7 @@
 **Tratado fonte:** *Álgebras de Lie — Simetria, Estrutura e Métodos Computacionais* (1ª edição, 2026)  
 **Departamento de Matemática e Física Teórica**
 
-Este repositório implementa, em Python + NumPy/SciPy, aplicações completas e executáveis de álgebras de Lie a problemas centrais da física de semicondutores. Todas as construções matemáticas estão explicitamente referenciadas aos capítulos e seções do tratado anexo.
+Este repositório implementa, em Python + NumPy/SciPy, aplicações completas e executáveis de álgebras de Lie a problemas centrais da física de semicondutores. Todas as construções matemáticas estão explicitamente referenciadas aos capítulos e seções do tratado.
 
 ## Origem das ideias no livro
 
