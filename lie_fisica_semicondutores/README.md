@@ -181,4 +181,4 @@ Tratado de Pós-Graduação em Matemática e Física Teórica, 1ª ed., 2026.
 ```
 
 ---
-*Gerado a partir da análise completa do PDF anexo (220 páginas).*
+*Autor: Luiz Tiago Wilcke.*
